@@ -1,0 +1,44 @@
+
+/* Default CSS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    max-width: 100%;
+}
+
+/* service-section */
+
+ .website-creation{
+    display: inline-block;
+    border-radius: 0px 60px 60px 0; 
+    padding: 60px 130px 60px 130px;
+    margin-bottom: 20px;
+    background-color: #7d4b4b;
+    margin-left: 65px;
+}
+
+.website-seo{
+    display: inline-block; 
+    background-color: #4f7d4b;
+    border-radius: 50px 0 0 50px;
+    padding: 60px 145px 60px 145px;
+    color: #f49f9f;
+    margin-left: 565px;
+}
+
+.website-optimization{
+    display: inline-block;
+    border-radius: 0px 60px 60px 0; 
+    padding: 60px 40px 60px 40px;
+    margin-bottom: 20px;
+    background-color: #340e9d;
+    margin-left: 65px;
+}
+.website-optimization h2{
+    font-size: 40px;
+}
+
